@@ -1,0 +1,7 @@
+{
+    "IsEncrypted": false,
+	"Values": {
+		"AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=afrobtesteaa591;AccountKey=B2+rw9BFRHGbdABlNb/72ehTI0n2gW/gngE6SI1wu5iKaBE58zc0hxQG/oyDwfFnXFE4jBLZRipMvKErkfPCAA==;BlobEndpoint=https://afrobtesteaa591.blob.core.windows.net/;QueueEndpoint=https://afrobtesteaa591.queue.core.windows.net/;TableEndpoint=https://afrobtesteaa591.table.core.windows.net/;FileEndpoint=https://afrobtesteaa591.file.core.windows.net/;",
+		"AzureWebJobsDashboard": ""
+	}
+}
