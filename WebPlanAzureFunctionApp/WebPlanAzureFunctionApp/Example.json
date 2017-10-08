@@ -1,6 +1,6 @@
 ﻿{
-	"OrderId": "O-001",
-	"ProductId": "P-001",
+	"PlanId": "101",
+	"ProductId": "P001",
 	"Email": "dummy@quest.com",
 	"Plan": "<plan />"
 }
